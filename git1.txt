@@ -1,0 +1,7 @@
+git init --> initialize
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/s1archosaur/My-First-Github-Repo
+git push -u origin main
+git config 
